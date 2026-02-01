@@ -151,5 +151,3 @@ You can test the API endpoints using the provided Postman Collection and Environ
 ---
 
 **Created by:** Septio Yasin Tiaratomo
-
-```
